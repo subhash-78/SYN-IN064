@@ -6,10 +6,4 @@ def is_prime(num):
             return False
     return True
 
-# Example usage:
-number = 17
 
-if is_prime(number):
-    print(f"{number} is a prime number.")
-else:
-    print(f"{number} is not a prime number.")
